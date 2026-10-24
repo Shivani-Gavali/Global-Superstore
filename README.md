@@ -1,11 +1,11 @@
 # Global-Superstore
 
-## Power BI Project
+### Power BI Project
 This project analyzes Global Superstore sales data to identify sales trends, profitability, customer segments, and regional performance. An interactive Power BI dashboard was developed to track key business metrics, top-selling products, and return rates. The dashboard helps stakeholders evaluate business performance and make data-driven decisions.
 
-## Tools Covered : Advanced Excel, Power BI, Power Query
+### Tools Covered : Advanced Excel, Power BI, Power Query
 
-## Key Performance Indicators (KPIs):
+### Key Performance Indicators (KPIs):
 
 • Total Orders
 
@@ -39,7 +39,7 @@ This project analyzes Global Superstore sales data to identify sales trends, pro
 
 • Sales by Customer Segment
 
-## Dashboard Visualizations:
+### Dashboard Visualizations:
 
 • Cards
 
@@ -57,9 +57,9 @@ This project analyzes Global Superstore sales data to identify sales trends, pro
 
 • Funnel Chart
 
-## Interactive Features:
+### Interactive Features:
 
 • Slicers
 
-## Dashboard Preview:
+### Dashboard Preview:
 ![Global Superstore](Global%20Superstore.png)
