@@ -62,4 +62,4 @@ This project analyzes Global Superstore sales data to identify sales trends, pro
 • Slicers
 
 ## Dashboard Preview:
-![Global Superstore](Global Superstore.png)
+![Global Superstore](Global%20Superstore.png)
